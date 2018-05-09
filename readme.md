@@ -17,4 +17,4 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-![image](https://raw.githubusercontent.com/DillonHu/Graph2DLibForCPP/tree/master/images/simpleGraphWin.jpg)
+![image](https://github.com/DillonHu/Graph2DLibForCPP/tree/master/images/simpleGraphWin.jpg)
