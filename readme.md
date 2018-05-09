@@ -39,6 +39,6 @@ int main(int argc, char *argv[])
   
   **Lei Wei** <weilei@nwsuaf.edu.cn>
   
-  **Yoajun Geng** <gengyaojun@nwsuaf.edu.cn>
+  **Yaojun Geng** <gengyaojun@nwsuaf.edu.cn>
 
 
