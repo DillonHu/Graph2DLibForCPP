@@ -16,3 +16,5 @@ int main(int argc, char *argv[])
     initGraph(display);
     return 0;
 }
+
+![image](https://github.com/DillonHu/Graph2DLibForCPP/tree/master/images/simpleGraphWin.png)
