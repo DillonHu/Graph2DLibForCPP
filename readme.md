@@ -2,7 +2,7 @@
 
 //Here is an example code of drawing a circle with text using Graph2D.
 
-<nowiki>
+<code>
 #include <Graph2D.h>
 using namespace graph;
 
@@ -17,6 +17,6 @@ int main(int argc, char *argv[])
     initGraph(display);
     return 0;
 }
-</nowiki>
+</code>
 
 ![image](images/simpleGraphWin.jpg)
