@@ -17,4 +17,4 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-[image](images/simpleGraphWin.jpg)
+![image](images/simpleGraphWin.jpg)
