@@ -1,6 +1,6 @@
 //Graph2D is a simple 2D graph library to assist programmers to develop simple graphic interface using C++.
 
-//Here is an example code of drawing a circle with text displaying using Graph2D.
+//Here is an example code of drawing a circle with text using Graph2D.
 
 #include <Graph2D.h>
 using namespace graph;
