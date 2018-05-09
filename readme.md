@@ -39,7 +39,8 @@ Fig.1 Basic graphs drawn by using Graph2D
 
 # Team members
 
--"Shaojun Hu"<hsj@nwsuaf.edu.cn>
--"Nan Geng"<nangeng@nwsuaf.edu.cn>
+  -"Shaojun Hu"<hsj@nwsuaf.edu.cn>
+
+  -"Nan Geng"<nangeng@nwsuaf.edu.cn>
 
 
