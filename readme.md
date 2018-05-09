@@ -31,8 +31,14 @@ int main(int argc, char *argv[])
 
 # Team members
 
-  ***Shaojun Hu** <hsj@nwsuaf.edu.cn>
+  **Shaojun Hu** <hsj@nwsuaf.edu.cn>
 
-  ***Nan Geng** <nangeng@nwsuaf.edu.cn>
+  **Nan Geng** <nangeng@nwsuaf.edu.cn>
+  
+  **Cheng Cai** <chengcai@nwsuaf.edu.cn>
+  
+  **Lei Wei** <weilei@nwsuaf.edu.cn>
+  
+  **Yoajun Geng** <gengyaojun@nwsuaf.edu.cn>
 
 
