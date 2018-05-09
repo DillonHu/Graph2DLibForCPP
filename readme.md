@@ -8,14 +8,14 @@ using namespace graph;
 
 void display() 
 {
-    circle(512, 384, 100);
-    putText(480, 384, "Hello world!");
+::circle(512, 384, 100);
+::putText(480, 384, "Hello world!");
 }
 
-int main(int argc, char *argv[])
+int main(int argc, char *argv\[\])
 {
-    initGraph(display);
-    return 0;
+::initGraph(display);
+::return 0;
 }
 </code>
 
