@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
-**Fig. 1** shows some basic graphs drawn by using Graph2D. The example can be found from the repo /examples/GraphElement.
+**Fig. 1** shows some basic graphs drawn by using Graph2D. The example can be found from the repo **/examples/GraphElement**.
 
 ![image](images/simpleGraphWin.jpg)
 
