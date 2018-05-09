@@ -3,26 +3,18 @@
 Graph2D is a simple 2D graph library to assist programmers to develop basic graph program using C++. Here is an example code of drawing a circle with text using Graph2D.
 ```C++
 #include <Graph2D.h>
-
 using namespace graph;
 
 void display()
-
 {
-  
-    circle(512, 384, 100);
-  
+    circle(512, 384, 100);  
     putText(480, 384, "Hello world!");
 }
 
 int main(int argc, char *argv[])
-
 {
-  
     initGraph(display);
-  
     return 0;
-
 }
 ```
 **Fig. 1** shows some basic graphs drawn by using Graph2D. The example can be found from the repo /examples/GraphElement.
@@ -39,8 +31,8 @@ int main(int argc, char *argv[])
 
 # Team members
 
-  **Shaojun Hu**<hsj@nwsuaf.edu.cn>
+  ***Shaojun Hu** <hsj@nwsuaf.edu.cn>
 
-  **Nan Geng**<nangeng@nwsuaf.edu.cn>
+  ***Nan Geng** <nangeng@nwsuaf.edu.cn>
 
 
